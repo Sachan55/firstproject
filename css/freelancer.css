@@ -305,6 +305,10 @@ header.masthead h2 {
   border-left: 1px solid #e9ecef;
 }
 
+.img-fluid{
+  height: 150px;
+  width: 200px;
+}
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
